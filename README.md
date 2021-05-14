@@ -1,5 +1,5 @@
 # spam_email_detection
-Classifies whether the email is a spam using sklearn's naive Bayes algorithm.
+Classifies whether the email is a spam using sklearn's Naive Bayes model algorithm.
 
 You need to upload the file from your google drive. Therefore make sure the "spam.csv" file is IN your drive. 
 
